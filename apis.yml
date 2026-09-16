@@ -36,9 +36,10 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-09-15'
 tags:
 - Company
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -49,10 +50,10 @@ common:
 - type: Website
   url: https://cinepapaya.com
 x-status: defunct
-x-status-note: 'Cinepapaya (Peru-based online movie-ticketing startup, 500 Startups /
-  Seedcamp) was acquired by Fandango in 2016 and the brand retired; cinepapaya.com no
-  longer resolves (no A/NS/SOA records as of 2026-07-20). No live website, developer
-  portal, documentation, or API surface exists to search, derive, or probe.'
+x-status-note: Cinepapaya (Peru-based online movie-ticketing startup, 500 Startups / Seedcamp) was acquired
+  by Fandango in 2016 and the brand retired; cinepapaya.com no longer resolves (no A/NS/SOA records as
+  of 2026-07-20). No live website, developer portal, documentation, or API surface exists to search, derive,
+  or probe.
 x-enrichment:
   date: '2026-07-20'
   status: nochange
